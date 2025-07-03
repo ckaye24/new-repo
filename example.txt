@@ -1,3 +1,7 @@
 Learning Git
 
 This is a new line
+
+and another one
+
+We are creating examples of using Git!
